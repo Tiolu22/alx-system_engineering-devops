@@ -1,1 +1,1 @@
-contents including hidden files
+display all contents
