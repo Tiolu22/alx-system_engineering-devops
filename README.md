@@ -1,1 +1,1 @@
-user home directory
+current working directory
