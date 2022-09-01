@@ -1,1 +1,1 @@
-second scripting
+script that prints effective user

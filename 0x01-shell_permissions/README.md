@@ -1,1 +1,1 @@
-script that switches
+script that prints effective user
