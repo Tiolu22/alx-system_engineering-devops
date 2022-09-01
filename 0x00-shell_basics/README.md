@@ -1,1 +1,1 @@
-display all contents
+directory named my first directory
