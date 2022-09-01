@@ -1,1 +1,1 @@
-directory named my first directory
+moving Betty to my first directory
