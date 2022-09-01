@@ -1,1 +1,1 @@
-My directory list
+user home directory

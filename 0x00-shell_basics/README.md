@@ -1,1 +1,1 @@
-the content list of my current directory
+changing the working directory to the user home directory
