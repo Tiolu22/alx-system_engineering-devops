@@ -1,1 +1,1 @@
-a script that prints the absolut path
+a script that prints the absolute path
