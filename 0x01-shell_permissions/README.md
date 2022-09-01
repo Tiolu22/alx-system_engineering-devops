@@ -1,1 +1,1 @@
- prints current user groups
+change owner hello to betty
