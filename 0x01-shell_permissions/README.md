@@ -1,1 +1,1 @@
-script that prints effective user
+ prints current user groups
