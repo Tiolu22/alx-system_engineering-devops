@@ -1,1 +1,1 @@
-My fourth readme.md file in git
+a script that prints the absolut path
