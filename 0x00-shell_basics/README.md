@@ -1,1 +1,1 @@
-changes directory to previous one
+list all files in parent and current directory
