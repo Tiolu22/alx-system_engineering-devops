@@ -1,1 +1,1 @@
-list all files in parent and current directory
+prints I am a file
