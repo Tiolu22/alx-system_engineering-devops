@@ -1,1 +1,1 @@
-Adds execute permission to all
+Create directory my directory
