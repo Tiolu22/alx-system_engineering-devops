@@ -1,1 +1,1 @@
-script that prints effective user
+a directory

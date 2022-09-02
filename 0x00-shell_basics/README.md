@@ -1,1 +1,1 @@
-delete the file
+delete my first firectory from tmp
