@@ -1,1 +1,1 @@
-list all files in parent and current directory
+move all capital lettered files
