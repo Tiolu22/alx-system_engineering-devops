@@ -1,1 +1,1 @@
-set mode to olleh mode
+Adds execute permission to all
