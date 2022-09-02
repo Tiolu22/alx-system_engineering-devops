@@ -1,1 +1,1 @@
-adds, execute and read permission
+everyone adds, executes and reads
