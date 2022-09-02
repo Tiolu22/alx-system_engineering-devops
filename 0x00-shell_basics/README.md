@@ -1,1 +1,1 @@
-delete my first firectory from tmp
+changes directory to previous one
