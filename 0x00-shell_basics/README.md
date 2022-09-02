@@ -1,1 +1,1 @@
-copy all HTML files
+list all files in parent and current directory
