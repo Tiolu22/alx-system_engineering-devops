@@ -1,1 +1,1 @@
-set mode of file
+set mode to olleh mode
