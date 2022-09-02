@@ -1,1 +1,1 @@
-add execute permission to owner
+adds, execute and read permission
