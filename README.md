@@ -1,1 +1,1 @@
-current working directory
+parent of the working directory
