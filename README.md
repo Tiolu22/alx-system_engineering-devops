@@ -1,1 +1,1 @@
-type of file
+current working directory

@@ -1,1 +1,1 @@
-prints I am a file
+a symbolic link
