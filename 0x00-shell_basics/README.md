@@ -1,1 +1,1 @@
-create directories
+listing with commas
