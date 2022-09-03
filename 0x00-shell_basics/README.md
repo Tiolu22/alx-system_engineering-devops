@@ -1,1 +1,1 @@
-listing with commas
+a script that prints the absolute path
