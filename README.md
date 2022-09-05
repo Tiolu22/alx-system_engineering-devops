@@ -1,1 +1,1 @@
-current working directory
+My first scripting
