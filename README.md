@@ -1,1 +1,1 @@
-New global variable
+adding variables
