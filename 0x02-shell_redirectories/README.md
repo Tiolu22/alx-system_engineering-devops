@@ -1,1 +1,1 @@
-My third scripting
+Write a script that orints "Hello, World"
