@@ -1,1 +1,1 @@
-Display the contents of /etc/passwd and /etc/hots
+Display the last 10 lines of /etc/passwd
