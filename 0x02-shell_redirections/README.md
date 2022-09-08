@@ -1,1 +1,1 @@
-My third scripting
+Display the contents of /etc/passwd and /etc/hots
