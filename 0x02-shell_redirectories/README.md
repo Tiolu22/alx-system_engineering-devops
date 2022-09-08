@@ -1,1 +1,1 @@
-Write a script that orints "Hello, World"
+Write a script that displays a confused smiley "(Ôo)"
